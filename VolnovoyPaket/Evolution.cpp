@@ -6,6 +6,7 @@ using namespace std;
 
 Evolution::Evolution(double a, double sigma, double step_t, double R0, int num_point, double left)
 {
+
 	points = num_point;
 	
 	tau = step_t;
